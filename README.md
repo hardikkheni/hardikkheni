@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://link-to-your-photo-or-a-banner" alt="banner that says your name and your specialization">
-</p>
+</p> -->
 
 <h1 align="center">Hi 👋, I'm Hardik Kheni</h1>
 <h3 align="center">A passionate Software Engineer from Surat, Gujarat</h3>
@@ -36,7 +36,8 @@
   ![Graphql](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql)
 
 ### Tools
-  ![Aws](https://img.shields.io/badge/-aws-333333?style=flat&logo=s3)
+  ![Aws](https://img.shields.io/badge/-Aws-333333?style=flat)
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
