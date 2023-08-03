@@ -6,7 +6,9 @@
 <h3 align="center">A passionate Software Engineer from Surat, Gujarat</h3>
 
 <p align="center"> 
-  <i>I am a proficient Software Developer with a penchant for front end development. My experience spans across all stages of the development cycle for dynamic web projects, fortified with a strong foundation in project management and customer relations. My passion lies in writing clean, efficient, and accessible code, turning abstract ideas into tangible solutions. Continual learning and technology exploration are the fuels that drive me. Currently, I'm diving deeper into low-level programming languages, enhancing my knowledge of Rust and Go.</i>
+  <i>
+    I am a proficient Full Stack Developer, my extensive experience spans all stages of the web development cycle, creating dynamic, scalable web applications from concept to deployment. Leveraging a diverse skill set, I specialize in both client-side and server-side development, implementing efficient, maintainable code in a variety of languages and frameworks. I'm a lifelong learner, continuously expanding my knowledge base and embracing emerging technologies. Currently, my focus is on enriching my expertise in low-level languages, particularly Rust and Go, while maintaining a robust grounding in end-to-end web solutions, thereby ensuring optimal performance and user experience.
+  </i>
 </p>
 
 ## 🛠️ My Skills
@@ -34,6 +36,8 @@
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
   ![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js)
   ![Graphql](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql)
+  ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 
 ### Tools
   ![Aws](https://img.shields.io/badge/-Aws-333333?style=flat)
@@ -47,6 +51,7 @@
   ![Prettier](https://img.shields.io/badge/-Prettier-333333?style=flat&logo=prettier)
   ![Eslint](https://img.shields.io/badge/-Eslint-333333?style=flat&logo=eslint)
   ![Vscode](https://img.shields.io/badge/-Vscode-333333?style=flat&logo=vscode)
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 
 <!-- ## 🚀 Some of My Projects
