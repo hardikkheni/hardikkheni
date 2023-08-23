@@ -32,12 +32,15 @@
   ![Fiber](https://img.shields.io/badge/-Fiber-333333?style=flat&logo=fiber)
   ![Rocket](https://img.shields.io/badge/-Rocket-333333?style=flat&logo=rocket)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+  ![Graphql](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql)
+  ![trcp](https://img.shields.io/badge/-trcp-333333?style=flat&logo=trcp)
+
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
   ![Tailwindcss](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
   ![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js)
-  ![Graphql](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql)
+  
   ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 
