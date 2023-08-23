@@ -34,6 +34,8 @@
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+  ![Tailwindcss](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
   ![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js)
   ![Graphql](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql)
   ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
