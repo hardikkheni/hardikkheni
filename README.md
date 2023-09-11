@@ -11,20 +11,22 @@
   </i>
 </p>
 
-## 🛠️ My Skills
+# 🛠️ My Skills
 
-### Languages
+## Languages
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
 
-### Databases
+## Databases
   ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
   ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
   ![Mongodb](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb)
 
-### Frameworks, Platforms and Libraries
+## Frameworks, Platforms and Libraries
+
+### Backends
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![Nestjs](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=nestjs)
@@ -32,23 +34,35 @@
   ![Fiber](https://img.shields.io/badge/-Fiber-333333?style=flat&logo=fiber)
   ![Rocket](https://img.shields.io/badge/-Rocket-333333?style=flat&logo=rocket)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+
+### RCP
+  ![RestAPI](https://img.shields.io/badge/-RestAPI-333333?style=flat&logo=RestAPI)
   ![Graphql](https://img.shields.io/badge/-Graphql-333333?style=flat&logo=graphql)
   ![trcp](https://img.shields.io/badge/-trcp-333333?style=flat&logo=trcp)
 
+### Frontends
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
   ![Tailwindcss](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
   ![Three.js](https://img.shields.io/badge/-Three.js-333333?style=flat&logo=three.js)
   
+### Testing
   ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 
-### Tools
+## Tools
+
+### Platforms
   ![Aws](https://img.shields.io/badge/-Aws-333333?style=flat)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)
+  ![Vercel](https://img.shields.io/badge/-vercel-333333?style=flat&logo=vercel)
+
+### Infrastructures
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+
+### Version Control, Package Managers, Bundlers, Linters, Formatters, IDEs etc.
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
   ![npm](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm)
@@ -77,7 +91,7 @@
   <img src="project-2.gif" alt="project 2 gif">
 </p> -->
 
-## 💬 Get in Touch 
+# 💬 Get in Touch 
 
 - LinkedIn: [Hardik Kheni](https://www.linkedin.com/in/hardik-kheni-2313b0165/)
 - Email: hardikkheni.work@gmail.com
@@ -85,7 +99,7 @@
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)   [![GitHub followers](https://img.shields.io/github/followers/hardikkheni.svg?style=social&label=Follow)](https://github.com/hardikkheni?tab=followers)
 
-## 📊 My GitHub Stats
+# 📊 My GitHub Stats
 
 <p align="center">
   <a href="https://github.com/hardikkheni">
