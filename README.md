@@ -30,10 +30,10 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![Nestjs](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=nestjs)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Gin](https://img.shields.io/badge/-Gin-333333?style=flat&logo=gin)
   ![Fiber](https://img.shields.io/badge/-Fiber-333333?style=flat&logo=fiber)
   ![Rocket](https://img.shields.io/badge/-Rocket-333333?style=flat&logo=rocket)
-  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 
 ### RCP
   ![RestAPI](https://img.shields.io/badge/-RestAPI-333333?style=flat&logo=RestAPI)
