@@ -57,6 +57,7 @@
   ![Aws](https://img.shields.io/badge/-Aws-333333?style=flat)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)
   ![Vercel](https://img.shields.io/badge/-vercel-333333?style=flat&logo=vercel)
+  ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-333333?style=flat&logo=DigitalOcean)
 
 ### Infrastructures
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
