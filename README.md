@@ -16,9 +16,8 @@
 ## Languages
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
-  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![C++](https://img.shields.io/badge/-Cpp-333333?style=flat&logo=cpp)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 
 ## Databases
   ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
@@ -32,9 +31,6 @@
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
   ![Nestjs](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=nestjs)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-  ![Gin](https://img.shields.io/badge/-Gin-333333?style=flat&logo=gin)
-  ![Fiber](https://img.shields.io/badge/-Fiber-333333?style=flat&logo=fiber)
-  ![Rocket](https://img.shields.io/badge/-Rocket-333333?style=flat&logo=rocket)
 
 ### RCP
   ![RestAPI](https://img.shields.io/badge/-RestAPI-333333?style=flat&logo=RestAPI)
