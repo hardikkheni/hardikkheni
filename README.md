@@ -17,8 +17,8 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
-  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=java)
-  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=c++)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![C++](https://img.shields.io/badge/-Cpp-333333?style=flat&logo=cpp)
 
 ## Databases
   ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
