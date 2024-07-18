@@ -7,7 +7,7 @@
 
 <p align="center"> 
   <i>
-    I am a proficient Full Stack Developer, my extensive experience spans all stages of the web development cycle, creating dynamic, scalable web applications from concept to deployment. Leveraging a diverse skill set, I specialize in both client-side and server-side development, implementing efficient, maintainable code in a variety of languages and frameworks. I'm a lifelong learner, continuously expanding my knowledge base and embracing emerging technologies. Currently, my focus is on enriching my expertise in low-level languages, particularly Rust and Go, while maintaining a robust grounding in end-to-end web solutions, thereby ensuring optimal performance and user experience.
+    I am a proficient Full Stack Developer, my extensive experience spans all stages of the web development cycle, creating dynamic, scalable web applications from concept to deployment. Leveraging a diverse skill set, I specialize in both client-side and server-side development, implementing efficient, maintainable code in a variety of languages and frameworks. I'm a lifelong learner, continuously expanding my knowledge base and embracing emerging technologies. Currently, my focus is on maintaining a robust grounding in end-to-end web solutions, thereby ensuring optimal performance and user experience.
   </i>
 </p>
 
@@ -17,7 +17,8 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
-  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=java)
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=c++)
 
 ## Databases
   ![Mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
