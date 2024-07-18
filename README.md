@@ -16,7 +16,7 @@
 ## Languages
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
-  ![C++](https://img.shields.io/badge/-Cpp-333333?style=flat&logo=cpp)
+  ![C++](https://img.shields.io/badge/-CPP-333333?style=flat&logo=cpp)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 
 ## Databases
